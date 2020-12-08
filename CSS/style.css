@@ -1,0 +1,100 @@
+H1{ text-align: center; font-weight: bolder; color: #0a4b13;}
+
+H2{ text-align: center; color: #0a4b13;}
+
+body{ background-attachment: fixed; /*background-image: url(../image/backg4.png);*/
+     background-color:#fae9f0;color:#555555; line-height: 1.6em;   
+    font-family: "Courier New", Courier, monospace; letter-spacing: 0.15em; }
+
+#page{background-attachment: fixed;/* background-image: url(../image/backg4.png);*/
+     max-width: auto; min-width: auto; margin: 10px auto 10px auto ;height: max-content; 
+     padding: 20px 20px 10px 20px; border: 4px double #000; background-color: #ffffff;}
+
+#logo{ margin: 10px 10px 10px 10px;}
+
+#pages{ max-width: 480px; background-color: rgb(62, 62, 128); min-width: auto; padding: 15px; margin: 0px auto 0px auto; 
+    border-top: 2px solid #000; border-bottom: 1px solid #000; text-align: center;
+    font-family: 'Courier New', Courier, monospace;}   
+
+#pages2{font-family: 'Times New Roman', Times, serif; font-weight: bold; display: inline; margin: 100px 3px; 
+    background-color: #bbbee4; border: 2px  rgb(98, 0, 255); color: #ffffff; padding: 3px 0px 3px 0px;}  
+ 
+a:hover, a.on{ color: #ffffff; background-color: #3700ff; border: 1px double #000;} 
+
+
+#skill_progress2{display: inline; border: 4px solid #000;}
+#skill_image{width: 100px ; height: inherit;}
+
+
+p{ text-align: center; font-weight: normal; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+a{ color: #000000; text-transform: uppercase; text-decoration: none; padding: 6px 18px 5px 18px;}   
+
+footer{color: rgb(0, 128, 128);}
+h1{align-items: center; text-align: center;}
+
+#title1{border-top: 1px solid; border-bottom: 1px solid;}
+#list1{width:34%; float: left; padding-top: 50px;min-width:350px;}
+#list2{width:28%; float: left; padding-top: 50px;min-width:350px;}
+#list3{width:28%; float: left; padding-top: 50px;min-width:350px;}
+#list4{width:40%; float: left; min-width:350px;}
+#list5{width:46%; float: left; min-width:350px;}
+#list6{width:46%; float: left; min-width:350px;}
+#list7{width:30%; float: left; min-width:350px;}
+#list8{width:60%; float: left; min-width:350px;}
+#list10{align-content: center;}
+#list9,#list11,#list12,#list13,#list14,#list15{width:33.33334%;float: left; min-width:350px;}
+#list17{width: 21%; float: left; min-width: 250px; padding: 10px;}
+#list18{width: 40%; float: left; min-width: 350px; padding: 10px;}
+#list19,#list16{width: 30%; float: left; min-width: 250px;padding: 0px 10px 0px 10px;}
+#list23{width: 25%; float: left; min-width: 250px;}
+#list22{width: 75%; float: left; min-width: 350px;}
+#list20{width: 25%; float: left; min-width: 250px;}
+#list24{width: 45%; float: left; min-width: 350px; padding: 10px;}
+#list25{width: 25%; float: left; min-width: 350px;}
+#generallist1{width: 70%; float: left; min-width: 350px; }
+#generallist2{width: 25%; float: left; min-width: 350px; }
+
+#imgvillasitepic1{max-width: 25%;height:auto;position: relative;float: left;}
+#imgvillasitepic2{max-width: 25%;height:auto;position: relative;float: left;padding-top:30px;}
+#imgvillasitepic3{max-width: 25%;height:auto;position: relative;float: left;padding-top:23px;}
+#imgvillasitepic4{max-width: 25%;height:auto;position: relative;float: left; }
+#imgclient,#imgarchitect{max-width: 53%;height:auto;position: relative;float: left;}
+#imgvilla1,#imgvilla2,#imgvilla3,#imgvilla4{width:28%; float: left;min-width:350px;}
+#imgvilla6{width: 100%;}
+#imgvilla5{max-width: 100%;height:auto;position: relative;float: left;}
+#imgvilla7{max-width: 100%;height:auto;position: relative;float: left;}
+#carcirculation{align-content: center;}
+#circulation1,#circulation2{max-width: 60%;height:auto;position: relative;}
+#zoning3,#zoning4{max-width: 80%;height:auto;position: relative;}
+#zoning1,#zoning2,#gfloor2,#ffloor2,#tfloor2{max-width: 100%;height:auto;position: relative;}
+#gfloor3,#ffloor3,#tfloor3{width: 350px;height:auto;position: relative;}
+#imggeneral1{width: 1280px; height: auto;}
+#fiveimg1,#fiveimg2,#fiveimg3,#fiveimg4,#fiveimg5,#imggeneral1{width: 1280px; height: auto;max-width: 100%;height:auto;position: relative;float: left;}
+#frame2{width: 800px; height:450px; max-width: 100%; max-height: 100%; position: relative;}
+
+#img1{align-content: center;max-width: 300px; max-height: 300px}
+#logo{align-content: center;max-height: 3000px; max-width: 1000px}
+#p1{align-content: center;}
+h3{color: rgb(0, 0, 255);}
+#profile{text-align: center; font-family: 'Courier New', Courier, monospace;}
+#logo2{text-align: center;}
+#education{color: #6495ed;}
+#reference{text-align: center;}
+
+.col1 { float: left; min-width: fit-content;  text-align: center;} 
+.col2 { float: left; min-width: fit-content;  text-align: center;}
+
+#iframe3{background-color: rgb(66, 66, 71);}
+
+#colul{max-width: 480px; min-width: auto; margin: 0px auto 0px auto; border-top: 2px solid #000; text-align: center;}
+#colli{font-weight: bold; display: inline;}
+#h3ul{list-style-type: circle;}
+
+table { width: 350px;} 
+th, td { padding: 2px 3px 3px 3px;} 
+th { text-transform: uppercase; letter-spacing: 0.1em; font-size: 90%; border-bottom: 2px solid #111111; border-top: 1px solid #999; text-align: left;} 
+tr.even { background-color: #efefef;} 
+tr.odd{background-color: #ffebcd;}
+tr:hover { background-color: #c3e6e5;} 
